@@ -2,8 +2,8 @@
   "name": "new-user-email-functions",
   "description": "Send an email to new users and users who delete their account",
   "dependencies": {
-    "firebase-admin": "~5.11.0",
-    "firebase-functions": "^1.0.0",
+    "firebase-admin": "~11.4.1",
+    "firebase-functions": "^4.1.1",
     "material-auto-rotating-carousel": "^2.0.0",
     "nodemailer": "^4.0.1",
     "react-swipeable-views": "^0.12.14"
