@@ -5,7 +5,7 @@
     "firebase-admin": "~11.4.1",
     "firebase-functions": "^4.1.1",
     "material-auto-rotating-carousel": "^2.0.0",
-    "nodemailer": "^4.0.1",
+    "nodemailer": "^6.6.1",
     "react-swipeable-views": "^0.12.14"
   },
   "devDependencies": {
